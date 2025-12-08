@@ -39,7 +39,7 @@ I also have experience with **data analytics** and **computer vision** through i
 
 - **Employee Management App** – React Native / Expo + Spring Boot  
   Mobile and web employee management system with a Spring Boot REST API and Expo frontend.  
-  🔗 _in progress_
+  🔗 https://github.com/kristinev7/EmployeeManagementApp
 
 - **Spring JWT Auth Demo** – Spring Boot + React  
   Authentication & authorization demo using Spring Security, JWT tokens, and protected React routes.  
