@@ -58,7 +58,8 @@ I also have experience with **data analytics** and **computer vision** through i
 ### 🌱 Currently Learning
 
 - Advanced Spring Security (RBAC, JWT refresh, request hardening)  
-- Scalable API design & full-stack architecture  
+- Scalable API design & full-stack architecture
+- Kafka messaging with Java, Spring Boot, and Docker
 
 ---
 
