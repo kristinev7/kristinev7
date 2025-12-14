@@ -1,20 +1,5 @@
 ## Hi there I'm Kristine👋
 
-<!--
-**kristinev7/kristinev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I’m a full-stack developer who builds **Java/Spring Boot** backends and **React / Next.js / React Native (Expo)** frontends.  
 I enjoy designing clean APIs, secure authentication flows, and smooth user interfaces.  
 I also have experience with **data analytics** and **computer vision** through internship projects.
@@ -23,9 +8,9 @@ I also have experience with **data analytics** and **computer vision** through i
 
 ### 🛠️ Tech I Use
 
-- **Backend:** Java, Spring Boot, REST APIs, JWT, SQL  
+- **Backend:** Java, Spring Boot, REST APIs, JWT, SQL, Apache Kafka  
 - **Frontend:** React, Next.js, React Native / Expo, TypeScript  
-- **Other:** Docker, Git, Python (ML/CV), data visualization, GSAP
+- **Other:** Docker, Git, Python (ML/CV), data visualization, GSAP, WebSocket
 
 ---
 
@@ -36,7 +21,14 @@ I also have experience with **data analytics** and **computer vision** through i
   Showcases my projects, skills, and professional experience.  
   🔗 https://github.com/kristinev7/portfolio
   🔗 *Live site:* _in progress_
-
+  
+- **Kafka Sensor Dashboard** – Spring Boot + React + Apache Kafka  
+  Real-time IoT sensor data streaming application with Apache Kafka message broker.  
+  Backend produces and consumes sensor readings via Kafka, exposes REST API and WebSocket for live updates.  
+  React frontend displays real-time temperature, humidity, and pressure data with automatic polling.  
+  🔗 Backend: https://github.com/kristinev7/kafka-demo  
+  🔗 Frontend: https://github.com/kristinev7/kafka-demo-frontend
+  
 - **Employee Management App** – React Native / Expo + Spring Boot  
   Mobile and web employee management system with a Spring Boot REST API and Expo frontend.  
   🔗 https://github.com/kristinev7/EmployeeManagementApp
