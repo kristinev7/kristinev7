@@ -19,8 +19,8 @@ I also have experience with **data analytics** and **computer vision** through i
 - **Developer Portfolio** – React / Next.js  
   Personal portfolio website built with Next.js and Tailwind CSS.  
   Showcases my projects, skills, and professional experience.  
-  🔗 https://github.com/kristinev7/portfolio
-  🔗 *Live site:* _in progress_
+  🔗 https://github.com/kristinev7/portfolio  
+  🔗 *Live site:* [kristine-dev](https://kristine-dev.replit.app/)
   
 - **Kafka Sensor Dashboard** – Spring Boot + React + Apache Kafka  
   Real-time IoT sensor data streaming application with Apache Kafka message broker.  
