@@ -25,7 +25,7 @@ I also have experience with **data analytics** and **computer vision** through i
 - **Real-Time Event Streaming and Monitoring Platform - Polling vs Pushing** – Spring Boot + React + Apache Kafka  
   A real-time, event-driven data streaming platform built with Apache Kafka and Spring Boot to ingest, process, and expose continuous event data.
   This project focuses on distributed backend architecture, stream processing, and a deliberate comparison between polling-based and push-based data delivery models.
-  The system currently uses REST polling, with WebSocket-based push delivery in progress.   
+  The system currently uses REST polling, with WebSocket-based push delivery. 
   🔗 Backend: https://github.com/kristinev7/kafka-demo  
   🔗 Frontend: https://github.com/kristinev7/kafka-demo-frontend
   
