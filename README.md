@@ -35,6 +35,7 @@ I also have experience with **data analytics** and **computer vision** through i
 
 - **Spring JWT Auth Demo** – Spring Boot + React  
   Authentication & authorization demo using Spring Security, JWT tokens, and protected React routes.  
+  Includes an optional, role-protected AI-powered audit summary feature.  
   🔗 _in progress_
 
 - **Data Analytics Dashboard** – React  
