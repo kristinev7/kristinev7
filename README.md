@@ -33,7 +33,7 @@ I also have experience with **data analytics** and **computer vision** through i
  A cross-platform employee management system built with a Spring Boot REST API and a MySQL persistence layer, consumed by mobile and web clients built using React Native (Expo).  
   🔗 [https://github.com/kristinev7/Cross-PlatformEmployeeManagementSystem](https://github.com/kristinev7/Cross-PlatformEmployeeManagementSystem)
 
-- **Spring JWT Auth Demo** – Spring Boot + React  
+- **Spring JWT Auth System** – Spring Boot + React  
   Authentication & authorization demo using Spring Security, JWT tokens, and protected React routes.  
   Includes an optional, role-protected AI-powered audit summary feature.  
   🔗 _in progress_
