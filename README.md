@@ -34,7 +34,7 @@ I also have experience with **data analytics** and **computer vision** through i
   🔗 [https://github.com/kristinev7/Cross-PlatformEmployeeManagementSystem](https://github.com/kristinev7/Cross-PlatformEmployeeManagementSystem)
 
 - **Spring JWT Auth System** – Spring Boot + React  
-  Authentication & authorization demo using Spring Security, JWT tokens, and protected React routes.  
+  Spring Boot application implementing JWT-based authentication with Spring Security for securing REST APIs.   
   🔗 _in progress_
 
 - **Data Analytics Dashboard** – React  
