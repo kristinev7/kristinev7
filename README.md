@@ -35,7 +35,7 @@ I also have experience with **data analytics** and **computer vision** through i
 
 - **Spring JWT Auth System** – Spring Boot + React Native / Expo  
   Spring Boot application implementing JWT-based authentication with Spring Security for securing REST APIs.   
-  🔗 _in progress_
+  🔗[ _in progress_](https://github.com/kristinev7/authservice)
 
 - **Data Analytics Dashboard** – React  
   Interactive dashboard with charts, graphs, and responsive UI for data exploration.  
